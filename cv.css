@@ -1,0 +1,34 @@
+i,h2,h3{
+    color: green;
+}
+
+h5,p{
+    color:grey;
+}
+
+.info
+{
+    font-weight: bold;
+}
+
+.ed{
+    color:darkgrey;
+    font-weight: bold;
+}
+
+body{
+    padding:100px;
+    padding-top: 0px;
+}
+.rest{
+    border-top: 1px solid grey;
+    height: 100%;
+}
+.leftside{
+    border-right: 1px solid grey;
+    height: 100%;
+}
+
+.info{
+    padding-top: 20%;
+}
